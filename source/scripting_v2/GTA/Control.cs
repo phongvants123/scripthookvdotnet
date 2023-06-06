@@ -248,8 +248,8 @@ namespace GTA
 		CursorCancel,
 		CursorX,
 		CursorY,
-		CursorScrollUp,
-		CursorScrollDown,
+		CursorScrollUp, 	// Middle mouse wheel up
+		CursorScrollDown,   // Middle mouse wheel down
 		EnterCheatCode,
 		InteractionMenu,
 		MpTextChatAll,
