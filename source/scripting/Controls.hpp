@@ -36,7 +36,7 @@ namespace GTA
 		SpecialAbilitySecondary = 29,
 		MoveLeftRight = 30,
 		MoveUpDown = 31,
-		MoveUpOnly = 32,
+		MoveUpOnly = 32, // Always use this, instead of MoveUp
 		MoveDownOnly = 33,
 		MoveLeftOnly = 34,
 		MoveRightOnly = 35,
@@ -245,7 +245,7 @@ namespace GTA
 		CursorCancel = 238,
 		CursorX = 239,
 		CursorY = 240,
-		CursorScrollUp = 241,
+		CursorScrollUp = 241, 		// Middle mouse wheel up
 		CursorScrollDown = 242,
 		EnterCheatCode = 243,
 		InteractionMenu = 244,
